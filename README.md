@@ -18,7 +18,7 @@
    - Siga as instruções específicas para sua plataforma para ativar o tema.
 
 ## Visualização
-![Imagem de Capa](images/capa.png)
+![Imagem de Capa](images/capa.jpg)
 
 ## Valor Adicionado
 O tema Black Box foi projetado para oferecer uma experiência visual moderna e elegante, melhorando a estética do seu projeto. Com instruções simples e diretas, você pode personalizar sua interface rapidamente, tornando seu trabalho mais agradável e eficiente.
