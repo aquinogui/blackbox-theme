@@ -1,0 +1,20 @@
+{
+    "name": "blackbox-theme",
+    "displayName": "Black Box Inspired Theme",
+    "description": "A custom theme inspired in the Black Box Ai code block.",
+    "version": "1.0.0",
+    "publisher": "Aquinogui",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Box Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blackbox-theme.json"
+            }
+        ]
+    },
+    "cover": "images/capa.jpg
+}

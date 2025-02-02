@@ -1,0 +1,182 @@
+{
+    "name": "Black Box Inspired Theme",
+    "type": "dark",
+    "colors": {
+      "editor.background": "#1E1E1E",
+      "editor.foreground": "#D4D4D4",
+      "editorCursor.foreground": "#AEAFAD",
+      "editor.lineHighlightBackground": "#2A2A2A",
+      "editorLineNumber.foreground": "#5A5A5A",
+      "editor.selectionBackground": "#264F78",
+      "editor.selectionHighlightBackground": "#4E4E4E",
+      "editor.wordHighlightBackground": "#575757",
+      "editor.wordHighlightStrongBackground": "#3C3C3C",
+      "editor.findMatchBackground": "#515C6A",
+      "editor.findMatchHighlightBackground": "#3A3D41",
+      "editor.hoverHighlightBackground": "#3A3D41",
+      "editorWhitespace.foreground": "#3B3B3B",
+      "editorIndentGuide.background": "#3B3B3B",
+      "editorIndentGuide.activeBackground": "#5A5A5A"
+    },
+    "tokenColors": [
+      {
+        "scope": [
+          "comment",
+          "comment.block.documentation"
+        ],
+        "settings": {
+          "foreground": "#6A9955",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": [
+          "keyword",
+          "keyword.control",
+          "keyword.operator"
+        ],
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": [
+          "variable",
+          "variable.parameter",
+          "variable.other"
+        ],
+        "settings": {
+          "foreground": "#9CDCFE"
+        }
+      },
+      {
+        "scope": [
+          "string",
+          "string.quoted",
+          "string.interpolated"
+        ],
+        "settings": {
+          "foreground": "#CE9178"
+        }
+      },
+      {
+        "scope": [
+          "constant",
+          "constant.numeric",
+          "constant.language"
+        ],
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": [
+          "entity.name.class",
+          "entity.name.function"
+        ],
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": [
+          "support.class",
+          "support.function"
+        ],
+        "settings": {
+          "foreground": "#D19A66"
+        }
+      },
+      {
+        "scope": [
+          "markup.heading",
+          "markup.list"
+        ],
+        "settings": {
+          "foreground": "#FFCC00"
+        }
+      },
+      {
+        "scope": [
+          "meta.embedded",
+          "meta.block"
+        ],
+        "settings": {
+          "foreground": "#FF7F50"
+        }
+      },
+      {
+        "scope": [
+          "variable.language",
+          "variable.other.local"
+        ],
+        "settings": {
+          "foreground": "#A77BCA"  // Roxo
+        }
+      },
+      {
+        "scope": [
+          "constant.other.color",
+          "constant.other.rgb-value"
+        ],
+        "settings": {
+          "foreground": "#FF6F20"  // Laranja
+        }
+      },
+      {
+        "scope": [
+          "markup.bold",
+          "markup.italic"
+        ],
+        "settings": {
+          "foreground": "#D19A66",
+          " "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": [
+          "meta.selector",
+          "meta.property-name"
+        ],
+        "settings": {
+          "foreground": "#FF79C6"  // Roxo para seletores e propriedades
+        }
+      },
+      {
+        "scope": [
+          "variable.other.readwrite",
+          "variable.other.local"
+        ],
+        "settings": {
+          "foreground": "#F8F8F2"  // Laranja para variáveis
+        }
+      },
+      {
+        "scope": [
+          "entity.name.tag",
+          "entity.other.attribute-name"
+        ],
+        "settings": {
+          "foreground": "#FFB86C"  // Laranja para tags e atributos
+        }
+      },
+      {
+        "scope": [
+          "punctuation.definition.string.begin",
+          "punctuation.definition.string.end"
+        ],
+        "settings": {
+          "foreground": "#FF5555"  // Vermelho para delimitadores de string
+        }
+      },
+      {
+        "scope": [
+          "meta.embedded.block",
+          "meta.embedded.inline"
+        ],
+        "settings": {
+          "foreground": "#BD93F9"  // Roxo para blocos e inline
+        }
+      }
+    ]
+  }
