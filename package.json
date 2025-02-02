@@ -2,7 +2,7 @@
     "name": "blackbox-theme",
     "displayName": "Black Box Inspired Theme",
     "description": "A custom theme inspired in the Black Box Ai code block.",
-    "version": "1.0.0",
+    "version": "2.2.0",
     "publisher": "Aquinogui",
     "engines": {
         "vscode": "^1.50.0"
@@ -17,5 +17,9 @@
         ]
     },
     "icon": "images/capa.jpg",
-    "cover": "images/capa.jpg"
+    "cover": "images/blackbox.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aquinogui/blackbox-theme.git"
+    }
 }
