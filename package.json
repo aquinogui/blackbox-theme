@@ -16,5 +16,6 @@
             }
         ]
     },
-    "cover": "images/capa.jpg
+    "icon": "images/capa.png",
+    "cover": "images/capa.jpg"
 }
