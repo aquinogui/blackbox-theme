@@ -2,7 +2,7 @@
     "name": "blackbox-theme",
     "displayName": "Black Box Inspired Theme",
     "description": "A custom theme inspired in the Black Box Ai code block.",
-    "version": "2.2.0",
+    "version": "2.4.0",
     "publisher": "Aquinogui",
     "engines": {
         "vscode": "^1.50.0"
